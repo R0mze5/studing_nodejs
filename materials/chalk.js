@@ -1,5 +1,5 @@
-const chalk = require("chalk");
-const message = require("./src/export");
+const chalk = require('chalk');
+const message = require('./src/export');
 
 console.log(chalk.gray(message));
 
